@@ -1,0 +1,15 @@
+Card,Card Level (Spawn Level),Cost,Count,Crown Tower Damage,Damage,Damage per second,Death Damage,Health (+Shield),Hit Speed,Level,Maximum Spawned,Radius,Range,Spawn DPS,Spawn Damage,Spawn Health,Spawn Speed,Spawner Health,Troop Spawned,Type
+Golem,,8.0,1,,259,103,259.0,"4,256",2.5,4.0,,,0,,,,,,,Troops and Defenses
+Archers,,3.0,2,,86,71,0.0,254,1.2,9.0,,,5,,,,,,,Troops and Defenses
+Sparky,,6.0,1,,"1,300",260,0.0,"1,200",5,1.0,,,4.5,,,,,,,Troops and Defenses
+Barbarians,,5.0,4,,159,106,0.0,636,1.5,9.0,,,0,,,,,,,Troops and Defenses
+Witch,,5.0,1,,69,98,0.0,696,0.7,4.0,,,5,,,,,,,Troops and Defenses
+Giant,,5.0,1,,211,140,0.0,"3,344",1.5,7.0,,,0,,,,,,,Troops and Defenses
+Cannon,,3.0,1,,127,158,0.0,742,0.8,9.0,,,5.5,,,,,,,Troops and Defenses
+Lava Pup,,,6,,45,45,0.0,179,1,1.0,,,2,,,,,,,Troops and Defenses
+Princess,,3.0,1,,140,46,0.0,216,3,1.0,,,9,,,,,,,Troops and Defenses
+Dark Prince,,4.0,1,,206,147,0.0,977 (+266),1.5,4.0,,,0,,,,,,,Troops and Defenses
+Knight,,3.0,1,,159,144,0.0,"1,399",1.1,9.0,,,0,,,,,,,Troops and Defenses
+Bowler,,5.0,1,,239,95,0.0,"1,596",2.5,4.0,,,5,,,,,,,Troops and Defenses
+Rocket,,6.0,,493.0,"1,232",,,,,7.0,,2.0,,,,,,,,Damaging Spells
+Bats,,2.0,5,,67,67,0.0,67,1,9.0,,,0,,,,,,,Troops and Defenses
